@@ -1,0 +1,9 @@
+syntax: glob
+bin/*
+obj/*
+*.suo
+*.user
+*.orig
+TestResults
+packages/*
+*.snk
